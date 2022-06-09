@@ -8,7 +8,7 @@
     "CLINICAL_DAYS_TRANSLATION_KEY": "أيام",
     "CONCEPT_SET_GROUP_EXPAND_ALL_KEY": "توسيع الكل",
     "CONCEPT_SET_GROUP_COLLAPSE_ALL_KEY": "انهيار جميع",
-    "NO_DISPOSTIONS_AVAILABLE_MESSAGE_KEY": ".لا توجد ترتيبات متاحة",
+    "NO_DISPOSTIONS_AVAILABLE_MESSAGE_KEY": "لا يوجد وجهات تخريج",
     "ALL_DIAGNOSES_KEY": "كل التشخيصات",
     "DISPLAY_CONTROL_ERROR_MESSAGE_KEY": "No {{ displayControl }} for this patient",
     "VISIT_CHANGE_CONFIRMATION_DIALOG_MESSAGE_KEY": "Current visit type is <b>{{ visitType }}</b>, Do you want to close it and start a new <b>{{ defaultVisitType }}</b> visit?",

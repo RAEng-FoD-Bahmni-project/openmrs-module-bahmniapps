@@ -21,7 +21,7 @@
     "REGISTRATION_LABEL_PATIENT_ENTER_MIDDLE_NAME": "ادخل اسم الأب للمريض",
     "REGISTRATION_LABEL_PATIENT_ENTER_LAST_NAME": "ادخل اسم الجد للمريض",
     "REGISTRATION_LABEL_PATIENT_ENTER_REGISTRATION": "ادخل رقم التسجيل للمريض",
-    "REGISTRATION_LABEL_CASTE_SAME_LAST_NAME": "اسم العائلة نفسه اسم اسم الجد",
+    "REGISTRATION_LABEL_CASTE_SAME_LAST_NAME": "استخدام اسم الطبقة مكان الكنية",
     "REGISTRATION_LABEL_GENDER": "النوع",
     "REGISTRATION_LABEL_SELECT_GENDER": "اختر النوع",
     "REGISTRATION_LABEL_AGE": "السن",
